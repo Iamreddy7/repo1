@@ -1,6 +1,8 @@
-JAVAFULLSTACK
->WEB TECHNOLOGY
->CORE JAVA
->SQL
->ADVANCE JAVA
+DevOps Tools
+>Maven
+>Jenkins
+>Dockers
+>Kubernetes
+>Ansible
+>Terraform
 
